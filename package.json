@@ -1,0 +1,34 @@
+{
+  "name": "d3-react",
+  "version": "1.0.0",
+  "description": "Using VX to build data-visualization charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonybrown/D3-React.git"
+  },
+  "keywords": [
+    "Data",
+    "React",
+    "D3",
+    "Charts"
+  ],
+  "author": "Anthony Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonybrown/D3-React/issues"
+  },
+  "homepage": "https://github.com/anthonybrown/D3-React#readme",
+  "dependencies": {
+    "@vx/group": "0.0.170",
+    "@vx/mock-data": "0.0.165",
+    "@vx/scale": "0.0.165",
+    "@vx/shape": "0.0.176",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "^1.1.5"
+  }
+}
