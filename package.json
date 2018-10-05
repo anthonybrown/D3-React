@@ -4,7 +4,7 @@
   "description": "Using VX to build data-visualization charts",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
